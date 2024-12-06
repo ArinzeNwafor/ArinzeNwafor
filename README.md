@@ -1,5 +1,5 @@
-<h1 align="center"><b>Hi there 👋, I'm Arinze Nwafor!</b></h1>
-<h3 align="center">Aspiring Full-Stack Developer | Passionate About Technology for Positive Change</h3>
+<h1><b>Hi there 👋, I'm Arinze Nwafor!</b></h1>
+<h3>Aspiring Full-Stack Developer | Passionate About Technology for Positive Change</h3>
 
 ---
 
