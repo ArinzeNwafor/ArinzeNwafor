@@ -1,4 +1,4 @@
-<h1><b>Hi there 👋, I'm Arinze Nwafor!</b></h1>
+<h1>Hi there 👋, I'm Arinze Nwafor!</h1>
 <h3>Aspiring Full-Stack Developer | Passionate About Technology for Positive Change</h3>
 
 ---
