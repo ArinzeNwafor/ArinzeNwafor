@@ -59,13 +59,13 @@ I am excited to collaborate on impactful projects and contribute to a thriving, 
 - 🌟 Developed a dynamic and user-friendly website for a non-profit organization, showcasing its mission, projects, and impact.  
 - 🧰 **Technologies Used:** HTML, Bootstrap (CSS), JavaScript 
 - 🌐 Integrated a donation system and blog to enhance engagement and transparency.  
-- 📖 [Explore Repository](https://github.com/yourusername/boundless-horizons-website)
+- 📖 [Explore Repository](https://github.com/arinzenwafor/boundless-horizons-website)
 
 #### 3. **YouTube Video/Audio Downloader**  
 - 📥 Built a feature-rich downloader tool that allows users to download videos or extract audio from YouTube in various formats.  
 - 🧰 **Technologies Used:** Python, Flask, yt_dlp, customtkinter, Pillow 
 - 🚀 Implemented a responsive web interface for easy accessibility and real-time format selection.  
-- 📖 [Explore Repository](https://github.com/yourusername/youtube-downloader)
+- 📖 [Explore Repository](https://github.com/arinzenwafor/youtube-downloader)
 
 
 ---
