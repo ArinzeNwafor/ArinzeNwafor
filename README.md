@@ -26,7 +26,6 @@ I am excited to collaborate on impactful projects and contribute to a thriving, 
 ![Rust](https://img.shields.io/badge/-Rust-brown?style=for-the-badge&logo=rust&logoColor=white)
 
 #### **Frameworks & Libraries:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-brown?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -44,6 +43,7 @@ I am excited to collaborate on impactful projects and contribute to a thriving, 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-02569B?style=for-the-badge&logo=mysql&logoColor=white)
 ![Xampp](https://img.shields.io/badge/-Xampp-orange?style=for-the-badge&logo=xampp&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-61DAFB?style=for-the-badge&logo=jupyter&logoColor=black)
 ![PhpMyAdmin](https://img.shields.io/badge/-PhpMyAdmin-47A248?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
